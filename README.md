@@ -1,5 +1,7 @@
 # Set Game
-BGU SPL course 2nd assignment. Written in Java and build with Maven. This is an implementation of the [card game Set](https://en.wikipedia.org/wiki/Set_(card_game)) with GUI, including PvP mode and optional bot players.
+BGU SPL course 2nd assignment. Written in Java and build with Maven. 
+
+This is an implementation of the [card game Set](https://en.wikipedia.org/wiki/Set_(card_game)) with GUI, including PvP mode and optional bot players.
 
 <img src="Images/Set%20logo.png" width="400" height="400">
 
