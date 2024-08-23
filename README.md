@@ -60,5 +60,5 @@ To keep the game more interesting and dynamic, and in case no legal sets are cur
 The game will continue as long as there is a legal set to be found in the remaining cards (that are either on table or in the deck). When there is no legal set left, the game will end and the player with the most points will be declared as the winner!
 
 ## System Requirements
-- Java installed on your machine
+- Java
 - Maven version 3.6.3 or later
